@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Bravo Portfolio]]></title>
         <description><![CDATA[Bravo Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bravo-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 20:40:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 20:40:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bravo-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maxor: Pharmacy Management, 340B Drug Pricing Program Solutions, 340B Audits & Consulting]]></title>
+            <description><![CDATA[<article><h1>Maxor: Pharmacy Management, 340B Drug Pricing Program Solutions, 340B Audits & Consulting</h1><p>We offer all the services your entity needs: Pharmacy Management, 340B Audits & Consulting, Pharmacy Benefit Management & Administration, specialty drug access, etc. Serving disproportionate share hospitals (DSH) and Federally-Qualified Health Centers (FQHC)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5e97a4bac6e7c9076eafbf44867888e70a59752.png"></article>]]></description>
+            <link>http://maxor340bprogram.com/</link>
+            <guid isPermaLink="false">fc20e8ad-3a20-4b7c-89f1-ea19f52230ef</guid>
+            <pubDate>Wed, 27 Jan 2016 20:39:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IV Solutions]]></title>
             <description><![CDATA[<article><h1>IV Solutions</h1><p>Cystic Fibrosis, or CF, is a genetic disease that affects the exocrine glands. These glands control the production of sweat, digestive fluids, and mucus. Cystic Fibrosis causes the body to produce thick mucus that blocks airways, prevents normal digestive functions, and leads to bacterial infections.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bbe5d15d1a40c42ac24684e9c571202e5860ed7.jpg"></article>]]></description>
