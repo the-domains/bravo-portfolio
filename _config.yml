@@ -1,6 +1,6 @@
 name: Bravo Portfolio
 favicon: null
-layout_spectrum: 0.03122
+layout_spectrum: 0.50344
 typography_spectrum: 0.6410727011971176
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#363636'
     - '#9d9d9d'
     - '#c9c9c9'
-  brandStrength: 0.4181792205199599
-  lightness: 0.3464240825269371
-  saturation: 0.25452607218176126
-  rhythmicContrast: 0.878457035170868
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
